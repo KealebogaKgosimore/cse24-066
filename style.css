@@ -1,0 +1,104 @@
+body{
+    color: black;
+    border-left-width: 15%;
+    border-right-width: 15%;
+    font-family:serif, helvetica;
+    font-weight: 500;
+    margin: 0 0 0 0;
+    background-color:toBottom(white, black);
+}
+
+
+header img{
+    width: 70px;
+    height: 70px;
+    float: left;
+    padding: 5px;
+    clear: bottom;
+    border-top: 10px;
+}
+
+header{
+    color: black;
+    text-align: center;
+    border-style: solid thin;
+    border-radius: 5%;
+    margin-top: 0px;
+}
+
+header h1{
+    border-style: solid black;
+}
+
+nav{
+    border-style: solid thin;
+    background-color: rgb(45, 42, 42);
+    text-align: center;
+    border-bottom: solid white;
+
+}
+nav ul li{
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+    border-right: solid white;
+    border-left: none;
+}
+
+nav a{
+    color: white;
+    text-align: center;
+}
+
+nav a:hover{
+    color: yellowgreen;
+    text-decoration: none;
+}
+
+nav a:link{
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+
+nav a:visited{
+    color: red;
+}
+
+article{
+    clear: right;
+    margin-right: 30%;
+}
+article video{
+    width: 100%;
+    clear: both;
+    position: center, top;
+}
+
+article h1, h2{
+    text-align: center;
+    text-decoration: none;
+}
+
+section{
+    text-align: center;
+    background-color: rgb(91, 89, 89);
+    
+}
+
+aside{
+    text-align: center;
+    float:right;
+    margin-left:75%;
+    padding:0%;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    border-style: solid thin;
+    border-top-style: solid;
+    border-top-color: black;
+    border-top-width: 50%;
+}
+
