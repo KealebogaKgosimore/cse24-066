@@ -35,7 +35,7 @@ nav{
     border-bottom: solid black;
 
 }
-.nav ul li{
+nav ul li{
     display: inline;
     text-decoration: none;
     text-align: center;
