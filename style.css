@@ -36,7 +36,7 @@ nav{
     border-bottom: solid black;
 
 }
-nav ul li{
+.nav ul li{
     display: inline;
     text-decoration: none;
     text-align: center;
@@ -44,23 +44,23 @@ nav ul li{
     border-left: none;
 }
 
-nav a{
+.nav a{
     color: white;
     text-align: center;
 }
 
-nav a:hover{
+.nav a:hover{
     color: red;
     text-decoration: none;
 }
 
-nav a:link{
+.nav a:link{
     text-decoration: none;
     padding: 20px;
     display: inline-block;
 }
 
-nav a:visited{
+.nav a:visited{
     color: yellowgreen;
 }
 
