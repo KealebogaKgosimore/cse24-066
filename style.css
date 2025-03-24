@@ -29,14 +29,13 @@ header{
 }
 
 nav{
-    border-style: solid thin;
+    border-style: solid;
     border-radius: 5px;
     padding: 0% 5%;
     background-color: rgb(45, 42, 42);
     text-align: center;
     width: inherit;
     border-bottom: solid black;
-
 }
 nav ul li{
     display: inline;
@@ -44,6 +43,10 @@ nav ul li{
     text-align: center;
     border-right: solid thin white;
     border-left: none;
+}
+
+nav ul{
+    padding:0%;
 }
 
 nav a{
