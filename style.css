@@ -84,8 +84,6 @@ article video{
 }
 
 article img{
-    width: inherit;
-    height: 50%;
     border-radius: 5px;
 }
 
