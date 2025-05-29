@@ -4,5 +4,5 @@ body{
   min-height:100vh;
 }
 header, body{
-  font-family:Monospace, Fantasy;
+  font-family:Monospace, sans-serif;
 }
