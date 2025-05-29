@@ -1,0 +1,8 @@
+body{
+  background-color:linear-gradient(135deg, #00f0ff, #a855f7);
+  color:white;
+  min-height:100vh;
+}
+header, body{
+  font-family:Monospace, Fantasy;
+}
